@@ -1,9 +1,9 @@
 github steps
 
 git clone the copy key (public or private)
+git init (to creat a new and empty repository)
 git fetch (to check if any change was made)
 git pull (to see the change or changes that were made)
-git fetch (to check again)
 git status (to check the status)
 git branch (to add a new branch)
 git switch (to change to the new branch)
