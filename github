@@ -1,0 +1,15 @@
+github steps
+
+git clone the copy key (public or private)
+git fetch (to check if any change was made)
+git pull (to see the change or changes that were made)
+git fetch (to check again)
+git status (to check the status)
+git branch (to add a new branch)
+git switch (to change to the new branch)
+git restore --staged (to restore the file but still deleted)
+git add (to add a file)
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+git commit -m “enter the message”
+git reset --hard “head” in the git log
